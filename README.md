@@ -15,7 +15,7 @@ Make mockups and prototypes with code! Then switch out the single css file for a
 
 [Main Hero Page](http://abemassry.github.io/mockstrap/)
 
-[Bootswatch clone page](abemassry.github.io/mockstrap/mockstrap.html)
+[Bootswatch clone page](http://abemassry.github.io/mockstrap/mockstrap.html)
 
 ##About this project
 
