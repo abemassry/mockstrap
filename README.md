@@ -2,8 +2,11 @@
 
 ##Inspired by
 [balsmiq bootstrap](https://mockupstogo.mybalsamiq.com/projects/web/Bootstrap)
+
 [flatstrap](http://www.littlesparkvt.com/flatstrap/)
+
 [bootswatch](http://bootswatch.com/)
+
 [XKCD-style plots in d3](http://bl.ocks.org/dfm/3914862)
 
 Make mockups and prototypes with code! Then switch out the single css file for another style and watch your mockup transform into a real design.  For quick mockups where you want to show the functionality and don't want people to sweat the details.
