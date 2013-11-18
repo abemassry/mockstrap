@@ -21,6 +21,6 @@ Make mockups and prototypes with code! Then switch out the single css file for a
 
 The inspiration for design was from [balsmiq bootstrap](https://mockupstogo.mybalsamiq.com/projects/web/Bootstrap).  The css file was adapted from [flatstrap](http://www.littlesparkvt.com/flatstrap/).  The mockstrap.html file was adapted from [bootswatch](http://bootswatch.com/).  The font is from [XKCD-style plots in d3](http://bl.ocks.org/dfm/3914862).  I was unsure of where to add these changes to for the desired effect.  I guess the project could be a bootswatch style, but it would have to be integrated in there.  For now the project is here until the changes get incorporated somewhere else.
 
-### Licence
-The Apache licence, because it's what comes with bootstrap, it seemed like the right choice.
+### License
+The Apache license, because it's what comes with bootstrap, it seemed like the right choice.
 
